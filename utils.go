@@ -7,7 +7,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 	"github.com/pkg/errors"
 )
 
